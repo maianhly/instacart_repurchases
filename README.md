@@ -4,7 +4,7 @@ To begin, extract the [Instacart Online Grocery Shopping Dataset](https://www.in
 
 ## Project Outline
 
-![Dataset schema](image/instacart_schema.png)
+![Dataset schema](notebooks/instacart_schema.png)
 
 1. [Creating `prior`, `train` and `all_products` datasets](notebooks/01-make_prior_and_training_datasets.ipynb) 
 2. [Creating features for `training` set based on `prior` ordering data](notebooks/02-creating_features_for_modelling.ipynb)
